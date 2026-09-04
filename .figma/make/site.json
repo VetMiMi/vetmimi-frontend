@@ -1,0 +1,10 @@
+{
+  "description": "Create visually appealing landing pages for psychotherapy services, leveraging competitor insights to enhance user engagement and attract clients.",
+  "robots": {
+    "index": false
+  },
+  "accessibility": {
+    "addBypassLinks": false,
+    "ignoreReducedMotion": false
+  }
+}
